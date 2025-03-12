@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_pack:block/bloc_titanium",
+    "up": "ore_pack:block/bloc_titanium",
+    "north": "ore_pack:block/bloc_titanium",
+    "east": "ore_pack:block/bloc_titanium",
+    "south": "ore_pack:block/bloc_titanium",
+    "west": "ore_pack:block/bloc_titanium",
+    "particle": "ore_pack:block/bloc_titanium"
+  },
+  "render_type": "solid"
+}

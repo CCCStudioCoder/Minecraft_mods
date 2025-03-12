@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "echantment_fantasy:breaking_stroke",
+    "echantment_fantasy:speed",
+    "echantment_fantasy:stifling",
+    "echantment_fantasy:stunning_hit",
+    "echantment_fantasy:invisibility",
+    "echantment_fantasy:poison"
+  ]
+}

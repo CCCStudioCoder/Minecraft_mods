@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepitenickel"
+    }
+  },
+  "result": {
+    "item": "ore_pack:dallenickel",
+    "count": 6
+  }
+}

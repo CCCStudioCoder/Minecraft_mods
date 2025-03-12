@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ore_pack:pelletitanium",
+    "ore_pack:pellebronze",
+    "ore_pack:pellecuivre",
+    "ore_pack:pellenickel",
+    "ore_pack:pellelapis"
+  ]
+}

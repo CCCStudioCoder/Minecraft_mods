@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ore_pack:dalletitanium",
+    "ore_pack:dalleargent",
+    "ore_pack:dallebronze",
+    "ore_pack:dallenickel",
+    "ore_pack:dallemanganese"
+  ]
+}

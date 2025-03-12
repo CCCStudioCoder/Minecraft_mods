@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "ore_pack:block/blanc",
+    "bottom": "ore_pack:block/blanc",
+    "top": "ore_pack:block/blanc",
+    "side": "ore_pack:block/gris_claire"
+  },
+  "render_type": "solid"
+}

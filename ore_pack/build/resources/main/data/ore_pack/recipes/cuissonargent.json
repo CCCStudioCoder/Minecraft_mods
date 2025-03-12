@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 3,
+  "cookingtime": 250,
+  "ingredient": {
+    "item": "ore_pack:argentbrut"
+  },
+  "result": "ore_pack:pepite_argent"
+}

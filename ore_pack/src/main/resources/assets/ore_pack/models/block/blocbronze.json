@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_pack:block/bloc_bronze",
+    "up": "ore_pack:block/bloc_bronze",
+    "north": "ore_pack:block/bloc_bronze",
+    "east": "ore_pack:block/bloc_bronze",
+    "south": "ore_pack:block/bloc_bronze",
+    "west": "ore_pack:block/bloc_bronze",
+    "particle": "ore_pack:block/bloc_bronze"
+  },
+  "render_type": "solid"
+}

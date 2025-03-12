@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepite_argent"
+    }
+  },
+  "result": {
+    "item": "ore_pack:dalleargent",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepitebronze"
+    }
+  },
+  "result": {
+    "item": "ore_pack:dallebronze",
+    "count": 6
+  }
+}

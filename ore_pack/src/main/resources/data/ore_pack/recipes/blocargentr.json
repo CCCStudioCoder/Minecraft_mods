@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepite_argent"
+    }
+  },
+  "result": {
+    "item": "ore_pack:blocargent",
+    "count": 1
+  }
+}

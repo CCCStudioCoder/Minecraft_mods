@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ore_pack:hachetitanium",
+    "ore_pack:hachecuivre",
+    "ore_pack:hachenickel",
+    "ore_pack:hachelapis"
+  ]
+}

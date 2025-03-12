@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepitetitanium"
+    }
+  },
+  "result": {
+    "item": "ore_pack:armuretitanium_helmet",
+    "count": 1
+  }
+}

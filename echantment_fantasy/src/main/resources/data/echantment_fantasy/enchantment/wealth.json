@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.echantment_fantasy.wealth"
+  },
+  "supported_items": "#minecraft:enchantable/sword",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "mainhand"
+  ],
+  "exclusive_set": "looting"
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "echantment_fantasy:disturbance",
+    "echantment_fantasy:speed",
+    "echantment_fantasy:stifling",
+    "echantment_fantasy:stunning_hit",
+    "echantment_fantasy:wealth_of_nether",
+    "echantment_fantasy:wealth",
+    "echantment_fantasy:life_thief",
+    "echantment_fantasy:poison"
+  ]
+}

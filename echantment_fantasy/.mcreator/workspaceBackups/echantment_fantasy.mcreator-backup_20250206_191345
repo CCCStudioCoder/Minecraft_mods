@@ -1,0 +1,371 @@
+{
+  "mod_elements": [
+    {
+      "name": "Poison",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poison",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/poison.json"
+        ]
+      }
+    },
+    {
+      "name": "PoisonEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poison_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/PoisonEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LifeThief",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "life_thief",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/life_thief.json"
+        ]
+      }
+    },
+    {
+      "name": "LifeThiefEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "life_thief_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/LifeThiefEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "amount",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invisibility",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invisibility",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/invisibility.json"
+        ]
+      }
+    },
+    {
+      "name": "InvisibilityEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invisibility_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/InvisibilityEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wealth",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wealth",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/wealth.json"
+        ]
+      }
+    },
+    {
+      "name": "WealthEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wealth_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/WealthEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WealthOfNether",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wealth_of_nether",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/wealth_of_nether.json"
+        ]
+      }
+    },
+    {
+      "name": "WealthOfNetherEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wealth_of_nether_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/WealthOfNetherEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StunningHit",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stunning_hit",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/stunning_hit.json"
+        ]
+      }
+    },
+    {
+      "name": "StunningHitEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stunning_hit_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/StunningHitEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stifling",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stifling",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/stifling.json"
+        ]
+      }
+    },
+    {
+      "name": "StiflingEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stifling_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/StiflingEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Speed",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echantment_fantasy/enchantment/speed.json"
+        ]
+      }
+    },
+    {
+      "name": "SpeedEffect",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/echantmentfantasy/procedures/SpeedEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "damagesource",
+            "type": "damagesource"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "default_attack_stunning",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "default_speed_stunning",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {
+    "ENCHANTMENTS:minecraft:non_treasure": [
+      "~CUSTOM:Speed",
+      "~CUSTOM:Stifling",
+      "~CUSTOM:StunningHit",
+      "~CUSTOM:WealthOfNether",
+      "~CUSTOM:Wealth",
+      "~CUSTOM:LifeThief",
+      "~CUSTOM:Poison"
+    ],
+    "ENCHANTMENTS:minecraft:treasure": [
+      "~CUSTOM:Invisibility"
+    ],
+    "ENCHANTMENTS:minecraft:on_random_loot": [
+      "~CUSTOM:Speed",
+      "~CUSTOM:Stifling",
+      "~CUSTOM:StunningHit",
+      "~CUSTOM:Invisibility",
+      "~CUSTOM:Poison"
+    ],
+    "ENCHANTMENTS:minecraft:tradeable": [
+      "~CUSTOM:Speed",
+      "~CUSTOM:StunningHit",
+      "~CUSTOM:Invisibility",
+      "~CUSTOM:LifeThief"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "enchantment.echantment_fantasy.poison": "Poison",
+      "enchantment.echantment_fantasy.speed": "Speed",
+      "enchantment.echantment_fantasy.life_thief": "Life Thief",
+      "enchantment.echantment_fantasy.stifling": "Stifling",
+      "enchantment.echantment_fantasy.wealth_of_nether": "Wealth of nether",
+      "enchantment.echantment_fantasy.invisibility": "Invisibility",
+      "enchantment.echantment_fantasy.wealth": "Wealth",
+      "enchantment.echantment_fantasy.stunning_hit": "Stunning Hit"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "echantment_fantasy",
+    "modName": "Echantment fantasy",
+    "version": "1.0.0",
+    "author": "client1, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "net.mcreator.echantmentfantasy"
+  },
+  "mcreatorVersion": 202400452410
+}

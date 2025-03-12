@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="echantment_fantasy"
+version="1.0.0"
+displayName="Echantment fantasy"
+displayURL="https://cccstudiocoder.github.io"
+logoFile="logo.png"
+credits="Created using mod maker MCreator thanks to Pylo"
+authors="CCC Studio"
+description="More than 10 new enchantments like speed of poison!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.echantment_fantasy]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.echantment_fantasy]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

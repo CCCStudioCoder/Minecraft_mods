@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 3.0,
+    "cookingTime": 250,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Argentbrut"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PepiteArgent"
+    },
+    "name": "cuissonargent",
+    "namespace": "mod"
+  }
+}

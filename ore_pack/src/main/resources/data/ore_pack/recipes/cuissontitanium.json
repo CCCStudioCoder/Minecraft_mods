@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 4,
+  "cookingtime": 240,
+  "ingredient": {
+    "item": "ore_pack:titaniumbrut"
+  },
+  "result": "ore_pack:pepitetitanium"
+}

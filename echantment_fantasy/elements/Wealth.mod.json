@@ -1,0 +1,26 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Wealth",
+    "supportedSlots": "mainhand",
+    "weight": 1,
+    "anvilCost": 3,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "LOOTING"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "TAG:minecraft:enchantable/sword"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Life Thief",
+    "supportedSlots": "mainhand",
+    "weight": 3,
+    "anvilCost": 2,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "CUSTOM:Poison"
+      },
+      {
+        "value": "SHARPNESS"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "Items.WOODEN_HOE"
+      },
+      {
+        "value": "Items.STONE_HOE"
+      },
+      {
+        "value": "Items.IRON_HOE"
+      },
+      {
+        "value": "Items.GOLDEN_HOE"
+      },
+      {
+        "value": "Items.DIAMOND_HOE"
+      },
+      {
+        "value": "Items.NETHERITE_HOE"
+      },
+      {
+        "value": "Items.WOODEN_AXE"
+      },
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      },
+      {
+        "value": "Items.NETHERITE_AXE"
+      },
+      {
+        "value": "Items.WOODEN_SWORD"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:pepitenickel"
+    }
+  },
+  "result": {
+    "item": "ore_pack:blocnickel",
+    "count": 1
+  }
+}

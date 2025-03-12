@@ -1,0 +1,29 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Poison",
+    "supportedSlots": "hand",
+    "weight": 4,
+    "anvilCost": 2,
+    "maxLevel": 2,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "SHARPNESS"
+      },
+      {
+        "value": "CUSTOM:LifeThief"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "TAG:minecraft:enchantable/sword"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": false
+  }
+}

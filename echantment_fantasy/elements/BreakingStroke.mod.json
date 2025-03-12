@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Breaking Stroke",
+    "supportedSlots": "mainhand",
+    "weight": 3,
+    "anvilCost": 2,
+    "maxLevel": 4,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [],
+    "supportedItems": [
+      {
+        "value": "TAG:minecraft:enchantable/sword"
+      }
+    ],
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": false
+  }
+}

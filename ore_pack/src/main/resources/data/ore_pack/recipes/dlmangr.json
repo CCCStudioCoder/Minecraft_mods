@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "ore_pack:manganesenbrut"
+    }
+  },
+  "result": {
+    "item": "ore_pack:dallemanganese",
+    "count": 6
+  }
+}

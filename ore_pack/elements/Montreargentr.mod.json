@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Argentbrut"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Argentbrut"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:Argentbrut"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Argentbrut"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.CLOCK"
+    },
+    "name": "montreargentr",
+    "namespace": "mod"
+  }
+}

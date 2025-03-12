@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "ore_pack:blocmanganese"
+    },
+    "title": {
+      "translate": "advancements.blocmanganeseprog.title"
+    },
+    "description": {
+      "translate": "advancements.blocmanganeseprog.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "blocmanganeseprog_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ore_pack:blocmanganese"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "minecraft:adventure/root"
+}

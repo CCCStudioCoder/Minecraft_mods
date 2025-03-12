@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ore_pack:piochetitanium",
+    "ore_pack:piochebronze",
+    "ore_pack:piochecuivre",
+    "ore_pack:piochenickel",
+    "ore_pack:piochelapis"
+  ]
+}

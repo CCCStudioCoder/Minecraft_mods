@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Pepitenickel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pepitenickel"
+      },
+      {
+        "value": "CUSTOM:Pepitenickel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pepitenickel"
+      },
+      {
+        "value": "CUSTOM:Pepitenickel"
+      },
+      {
+        "value": "CUSTOM:Pepitenickel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Escaliernickel"
+    },
+    "name": "escnickr",
+    "namespace": "mod"
+  }
+}

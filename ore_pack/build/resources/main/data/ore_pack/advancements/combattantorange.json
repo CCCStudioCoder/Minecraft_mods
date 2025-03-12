@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ore_pack:epeebronze"
+    },
+    "title": {
+      "translate": "advancements.combattantorange.title"
+    },
+    "description": {
+      "translate": "advancements.combattantorange.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "combattantorange_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "ore_pack:boulerepprog"
+}

@@ -1,0 +1,25 @@
+/time set noon
+/enchant Dev echantment_fantasy:life_thief
+/enchant Dev echantment_fantasy:invisibility
+/enchant Dev echantment_fantasy:invisibility 4
+/enchant Dev echantment_fantasy:invisibility 3
+/enchant Dev echantment_fantasy:wealth
+/enchant Dev echantment_fantasy:wealth_of_nether
+/execute in minecraft:the_nether run tp Dev 0 50 0
+/execute in minecraft:overworld run tp Dev 0 0 0
+/execute in minecraft:the_nether run tp Dev 0 0 0
+/execute in minecraft:the_nether run tp Dev 0 100 0
+/execute in minecraft:overworld run tp Dev 0 0 0
+/enchant Dev echantment_fantasy:stunning_hit
+/enchant Dev echantment_fantasy:speed 4
+/enchant Dev echantment_fantasy:speed 3
+/enchant Dev echantment_fantasy:speed 4
+/summon minecraft:zombie 1.72 -60.00 1.79 {CanPickUpLoot:1}
+/enchant Dev echantment_fantasy:disturbance
+/summon minecraft:zombie -1.46 -60.00 -4.78 {CanPickUpLoot:1}
+/time set night
+/time set noon
+/summon minecraft:wither_skeleton 7.61 -60.00 -17.23 {CanPickUpLoot:1}
+/enchant Dev echantment_fantasy:knockback 4
+/attribute Dev minecraft:generic.attack_knockback base
+/enchant Dev echantment_fantasy:knockback

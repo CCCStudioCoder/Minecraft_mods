@@ -1,0 +1,1749 @@
+{
+  "mod_elements": [
+    {
+      "name": "Pepitedemanganese",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepitedemanganese",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/pepitedemanganese.json",
+          "src/main/java/net/mcreator/orepack/item/PepitedemanganeseItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Manganese",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manganese",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/forge/biome_modifier/manganese_biome_modifier.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/manganese.json",
+          "src/main/resources/assets/ore_pack/models/block/manganese.json",
+          "src/main/resources/data/ore_pack/worldgen/configured_feature/manganese.json",
+          "src/main/resources/data/ore_pack/worldgen/placed_feature/manganese.json",
+          "src/main/java/net/mcreator/orepack/block/ManganeseBlock.java",
+          "src/main/resources/assets/ore_pack/blockstates/manganese.json",
+          "src/main/resources/assets/ore_pack/models/item/manganese.json"
+        ]
+      }
+    },
+    {
+      "name": "Manganesenbrut",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manganesenbrut",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/manganesenbrut.json",
+          "src/main/java/net/mcreator/orepack/item/ManganesenbrutItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Cuissonmanganese",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissonmanganese",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/cuissonmanganese.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocmanganese",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocmanganese",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/block/BlocmanganeseBlock.java",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/blocmanganese.json",
+          "src/main/resources/assets/ore_pack/models/block/blocmanganese.json",
+          "src/main/resources/assets/ore_pack/blockstates/blocmanganese.json",
+          "src/main/resources/assets/ore_pack/models/item/blocmanganese.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocmanganesefab",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocmanganesefab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/blocmanganesefab.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocmanganeseprog",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocmanganeseprog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/blocmanganeseprog.json"
+        ]
+      }
+    },
+    {
+      "name": "Nickelbrut",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickelbrut",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/nickelbrut.json",
+          "src/main/java/net/mcreator/orepack/item/NickelbrutItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Nickel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/forge/biome_modifier/nickel_biome_modifier.json",
+          "src/main/resources/data/ore_pack/worldgen/configured_feature/nickel.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/nickel.json",
+          "src/main/resources/data/ore_pack/worldgen/placed_feature/nickel.json",
+          "src/main/java/net/mcreator/orepack/block/NickelBlock.java",
+          "src/main/resources/assets/ore_pack/models/item/nickel.json",
+          "src/main/resources/assets/ore_pack/blockstates/nickel.json",
+          "src/main/resources/assets/ore_pack/models/block/nickel.json"
+        ]
+      }
+    },
+    {
+      "name": "Pepitenickel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepitenickel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PepitenickelItem.java",
+          "src/main/resources/assets/ore_pack/models/item/pepitenickel.json"
+        ]
+      }
+    },
+    {
+      "name": "Cuissonnickel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissonnickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/cuissonnickel.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocnickel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocnickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/loot_tables/blocks/blocnickel.json",
+          "src/main/resources/assets/ore_pack/models/item/blocnickel.json",
+          "src/main/resources/assets/ore_pack/models/block/blocnickel.json",
+          "src/main/resources/assets/ore_pack/blockstates/blocnickel.json",
+          "src/main/java/net/mcreator/orepack/block/BlocnickelBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Blocnickelr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocnickelr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/blocnickelr.json"
+        ]
+      }
+    },
+    {
+      "name": "Boulereparation",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boulereparation",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/boulereparation.json",
+          "src/main/java/net/mcreator/orepack/item/BoulereparationItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Boulerepr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boulerepr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/boulerepr.json"
+        ]
+      }
+    },
+    {
+      "name": "Boulerepprog",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boulerepprog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/boulerepprog.json"
+        ]
+      }
+    },
+    {
+      "name": "Titanium",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/worldgen/configured_feature/titanium.json",
+          "src/main/java/net/mcreator/orepack/block/TitaniumBlock.java",
+          "src/main/resources/data/ore_pack/worldgen/placed_feature/titanium.json",
+          "src/main/resources/assets/ore_pack/models/item/titanium.json",
+          "src/main/resources/data/ore_pack/forge/biome_modifier/titanium_biome_modifier.json",
+          "src/main/resources/assets/ore_pack/blockstates/titanium.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/titanium.json",
+          "src/main/resources/assets/ore_pack/models/block/titanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Titaniumbrut",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titaniumbrut",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/TitaniumbrutItem.java",
+          "src/main/resources/assets/ore_pack/models/item/titaniumbrut.json"
+        ]
+      }
+    },
+    {
+      "name": "Pepitetitanium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepitetitanium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PepitetitaniumItem.java",
+          "src/main/resources/assets/ore_pack/models/item/pepitetitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Cuissontitanium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissontitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/cuissontitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Armuretitanium",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armuretitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/armuretitanium_leggings.json",
+          "src/main/resources/assets/ore_pack/models/item/armuretitanium_boots.json",
+          "src/main/java/net/mcreator/orepack/item/ArmuretitaniumItem.java",
+          "src/main/resources/assets/ore_pack/models/item/armuretitanium_helmet.json",
+          "src/main/resources/assets/ore_pack/models/item/armuretitanium_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Bronzebrut",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bronzebrut",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/BronzebrutItem.java",
+          "src/main/resources/assets/ore_pack/models/item/bronzebrut.json"
+        ]
+      }
+    },
+    {
+      "name": "Bronze",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/blockstates/bronze.json",
+          "src/main/resources/data/ore_pack/forge/biome_modifier/bronze_biome_modifier.json",
+          "src/main/resources/data/ore_pack/worldgen/configured_feature/bronze.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/bronze.json",
+          "src/main/resources/data/ore_pack/worldgen/placed_feature/bronze.json",
+          "src/main/resources/assets/ore_pack/models/item/bronze.json",
+          "src/main/resources/assets/ore_pack/models/block/bronze.json",
+          "src/main/java/net/mcreator/orepack/block/BronzeBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Cuissonbronze",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissonbronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/cuissonbronze.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocbronze",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocbronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/blocbronze.json",
+          "src/main/resources/assets/ore_pack/models/block/blocbronze.json",
+          "src/main/resources/assets/ore_pack/blockstates/blocbronze.json",
+          "src/main/java/net/mcreator/orepack/block/BlocbronzeBlock.java",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/blocbronze.json"
+        ]
+      }
+    },
+    {
+      "name": "Pepitebronze",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepitebronze",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PepitebronzeItem.java",
+          "src/main/resources/assets/ore_pack/models/item/pepitebronze.json"
+        ]
+      }
+    },
+    {
+      "name": "Argentbrut",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "argentbrut",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/ArgentbrutItem.java",
+          "src/main/resources/assets/ore_pack/models/item/argentbrut.json"
+        ]
+      }
+    },
+    {
+      "name": "Argent",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "argent",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/forge/biome_modifier/argent_biome_modifier.json",
+          "src/main/resources/assets/ore_pack/models/item/argent.json",
+          "src/main/resources/assets/ore_pack/models/block/argent.json",
+          "src/main/resources/assets/ore_pack/blockstates/argent.json",
+          "src/main/resources/data/ore_pack/worldgen/placed_feature/argent.json",
+          "src/main/resources/data/ore_pack/worldgen/configured_feature/argent.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/argent.json",
+          "src/main/java/net/mcreator/orepack/block/ArgentBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PepiteArgent",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepite_argent",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/pepite_argent.json",
+          "src/main/java/net/mcreator/orepack/item/PepiteArgentItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Bloctitanium",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloctitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/bloctitanium.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/bloctitanium.json",
+          "src/main/resources/assets/ore_pack/models/block/bloctitanium.json",
+          "src/main/resources/assets/ore_pack/blockstates/bloctitanium.json",
+          "src/main/java/net/mcreator/orepack/block/BloctitaniumBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Bloctitan",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloctitan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/bloctitan.json"
+        ]
+      }
+    },
+    {
+      "name": "Cuissonargent",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissonargent",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/cuissonargent.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocargent",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocargent",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/blocargent.json",
+          "src/main/resources/assets/ore_pack/blockstates/blocargent.json",
+          "src/main/java/net/mcreator/orepack/block/BlocargentBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/blocargent.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/blocargent.json"
+        ]
+      }
+    },
+    {
+      "name": "Blocargentr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocargentr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/blocargentr.json"
+        ]
+      }
+    },
+    {
+      "name": "Escaliermanganese",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escaliermanganese",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/block/escaliermanganese_inner.json",
+          "src/main/resources/assets/ore_pack/blockstates/escaliermanganese.json",
+          "src/main/java/net/mcreator/orepack/block/EscaliermanganeseBlock.java",
+          "src/main/resources/assets/ore_pack/models/item/escaliermanganese.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/escaliermanganese.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliermanganese.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliermanganese_outer.json"
+        ]
+      }
+    },
+    {
+      "name": "Escmangr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escmangr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/escmangr.json"
+        ]
+      }
+    },
+    {
+      "name": "Escaliernickel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escaliernickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/blockstates/escaliernickel.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliernickel_inner.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/escaliernickel.json",
+          "src/main/resources/assets/ore_pack/models/item/escaliernickel.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliernickel_outer.json",
+          "src/main/java/net/mcreator/orepack/block/EscaliernickelBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/escaliernickel.json"
+        ]
+      }
+    },
+    {
+      "name": "Escalierbronze",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalierbronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/block/escalierbronze_inner.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/escalierbronze.json",
+          "src/main/resources/assets/ore_pack/models/block/escalierbronze.json",
+          "src/main/resources/assets/ore_pack/models/block/escalierbronze_outer.json",
+          "src/main/java/net/mcreator/orepack/block/EscalierbronzeBlock.java",
+          "src/main/resources/assets/ore_pack/models/item/escalierbronze.json",
+          "src/main/resources/assets/ore_pack/blockstates/escalierbronze.json"
+        ]
+      }
+    },
+    {
+      "name": "Escalierargent",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalierargent",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/block/escalierargent_inner.json",
+          "src/main/resources/assets/ore_pack/models/item/escalierargent.json",
+          "src/main/resources/assets/ore_pack/models/block/escalierargent.json",
+          "src/main/resources/assets/ore_pack/blockstates/escalierargent.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/escalierargent.json",
+          "src/main/java/net/mcreator/orepack/block/EscalierargentBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/escalierargent_outer.json"
+        ]
+      }
+    },
+    {
+      "name": "Escaliertitanium",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escaliertitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/loot_tables/blocks/escaliertitanium.json",
+          "src/main/resources/assets/ore_pack/blockstates/escaliertitanium.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliertitanium_inner.json",
+          "src/main/resources/assets/ore_pack/models/item/escaliertitanium.json",
+          "src/main/java/net/mcreator/orepack/block/EscaliertitaniumBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/escaliertitanium.json",
+          "src/main/resources/assets/ore_pack/models/block/escaliertitanium_outer.json"
+        ]
+      }
+    },
+    {
+      "name": "Escnickr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escnickr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/escnickr.json"
+        ]
+      }
+    },
+    {
+      "name": "Escbrr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escbrr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/escbrr.json"
+        ]
+      }
+    },
+    {
+      "name": "Escargr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escargr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/escargr.json"
+        ]
+      }
+    },
+    {
+      "name": "Esctitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "esctitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/esctitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Dallemanganese",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dallemanganese",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/dallemanganese.json",
+          "src/main/resources/assets/ore_pack/blockstates/dallemanganese.json",
+          "src/main/resources/assets/ore_pack/models/block/dallemanganese_top.json",
+          "src/main/java/net/mcreator/orepack/block/DallemanganeseBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/dallemanganese_full.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/dallemanganese.json",
+          "src/main/resources/assets/ore_pack/models/block/dallemanganese.json"
+        ]
+      }
+    },
+    {
+      "name": "Dallenickel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dallenickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/blockstates/dallenickel.json",
+          "src/main/resources/assets/ore_pack/models/block/dallenickel_top.json",
+          "src/main/java/net/mcreator/orepack/block/DallenickelBlock.java",
+          "src/main/resources/assets/ore_pack/models/item/dallenickel.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/dallenickel.json",
+          "src/main/resources/assets/ore_pack/models/block/dallenickel_full.json",
+          "src/main/resources/assets/ore_pack/models/block/dallenickel.json"
+        ]
+      }
+    },
+    {
+      "name": "Dallebronze",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dallebronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/block/dallebronze.json",
+          "src/main/java/net/mcreator/orepack/block/DallebronzeBlock.java",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/dallebronze.json",
+          "src/main/resources/assets/ore_pack/models/block/dallebronze_full.json",
+          "src/main/resources/assets/ore_pack/blockstates/dallebronze.json",
+          "src/main/resources/assets/ore_pack/models/item/dallebronze.json",
+          "src/main/resources/assets/ore_pack/models/block/dallebronze_top.json"
+        ]
+      }
+    },
+    {
+      "name": "Dalleargent",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleargent",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/blockstates/dalleargent.json",
+          "src/main/resources/assets/ore_pack/models/block/dalleargent_top.json",
+          "src/main/resources/assets/ore_pack/models/block/dalleargent.json",
+          "src/main/java/net/mcreator/orepack/block/DalleargentBlock.java",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/dalleargent.json",
+          "src/main/resources/assets/ore_pack/models/block/dalleargent_full.json",
+          "src/main/resources/assets/ore_pack/models/item/dalleargent.json"
+        ]
+      }
+    },
+    {
+      "name": "Dalletitanium",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalletitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/block/dalletitanium_full.json",
+          "src/main/java/net/mcreator/orepack/block/DalletitaniumBlock.java",
+          "src/main/resources/assets/ore_pack/models/block/dalletitanium.json",
+          "src/main/resources/data/ore_pack/loot_tables/blocks/dalletitanium.json",
+          "src/main/resources/assets/ore_pack/models/block/dalletitanium_top.json",
+          "src/main/resources/assets/ore_pack/blockstates/dalletitanium.json",
+          "src/main/resources/assets/ore_pack/models/item/dalletitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Dlmangr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dlmangr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/dlmangr.json"
+        ]
+      }
+    },
+    {
+      "name": "Dlncr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dlncr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/dlncr.json"
+        ]
+      }
+    },
+    {
+      "name": "Dlargr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dlargr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/dlargr.json"
+        ]
+      }
+    },
+    {
+      "name": "Dlbrr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dlbrr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/dlbrr.json"
+        ]
+      }
+    },
+    {
+      "name": "Dltitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dltitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/dltitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Piochelapis",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochelapis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PiochelapisItem.java",
+          "src/main/resources/assets/ore_pack/models/item/piochelapis.json"
+        ]
+      }
+    },
+    {
+      "name": "Epeelapis",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeelapis",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/epeelapis.json",
+          "src/main/java/net/mcreator/orepack/item/EpeelapisItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hachelapis",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hachelapis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/HachelapisItem.java",
+          "src/main/resources/assets/ore_pack/models/item/hachelapis.json"
+        ]
+      }
+    },
+    {
+      "name": "Houxlapis",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "houxlapis",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/houxlapis.json",
+          "src/main/java/net/mcreator/orepack/item/HouxlapisItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pellelapis",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pellelapis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PellelapisItem.java",
+          "src/main/resources/assets/ore_pack/models/item/pellelapis.json"
+        ]
+      }
+    },
+    {
+      "name": "Epeenickel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeenickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/epeenickel.json",
+          "src/main/java/net/mcreator/orepack/item/EpeenickelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Piochenickel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochenickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/piochenickel.json",
+          "src/main/java/net/mcreator/orepack/item/PiochenickelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hachenickel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hachenickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/hachenickel.json",
+          "src/main/java/net/mcreator/orepack/item/HachenickelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Houxnickel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "houxnickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/houxnickel.json",
+          "src/main/java/net/mcreator/orepack/item/HouxnickelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pellenickel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pellenickel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/pellenickel.json",
+          "src/main/java/net/mcreator/orepack/item/PellenickelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Epeecuivre",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeecuivre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/EpeecuivreItem.java",
+          "src/main/resources/assets/ore_pack/models/item/epeecuivre.json"
+        ]
+      }
+    },
+    {
+      "name": "Piochecuivre",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochecuivre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PiochecuivreItem.java",
+          "src/main/resources/assets/ore_pack/models/item/piochecuivre.json"
+        ]
+      }
+    },
+    {
+      "name": "Hachecuivre",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hachecuivre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/HachecuivreItem.java",
+          "src/main/resources/assets/ore_pack/models/item/hachecuivre.json"
+        ]
+      }
+    },
+    {
+      "name": "Pellecuivre",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pellecuivre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PellecuivreItem.java",
+          "src/main/resources/assets/ore_pack/models/item/pellecuivre.json"
+        ]
+      }
+    },
+    {
+      "name": "Combattantorange",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combattantorange",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/combattantorange.json"
+        ]
+      }
+    },
+    {
+      "name": "Comboranprogdon",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "comboranprogdon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/procedures/ComboranprogdonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Epeebronze",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeebronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/epeebronze.json",
+          "src/main/java/net/mcreator/orepack/item/EpeebronzeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Piochebronze",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochebronze",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PiochebronzeItem.java",
+          "src/main/resources/assets/ore_pack/models/item/piochebronze.json"
+        ]
+      }
+    },
+    {
+      "name": "Pellebronze",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pellebronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/pellebronze.json",
+          "src/main/java/net/mcreator/orepack/item/PellebronzeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Epeetitanium",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeetitanium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/EpeetitaniumItem.java",
+          "src/main/resources/assets/ore_pack/models/item/epeetitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Piochetitanium",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochetitanium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/PiochetitaniumItem.java",
+          "src/main/resources/assets/ore_pack/models/item/piochetitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Hachetitanium",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hachetitanium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/item/HachetitaniumItem.java",
+          "src/main/resources/assets/ore_pack/models/item/hachetitanium.json"
+        ]
+      }
+    },
+    {
+      "name": "Pelletitanium",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelletitanium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ore_pack/models/item/pelletitanium.json",
+          "src/main/java/net/mcreator/orepack/item/PelletitaniumItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pilapisr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pilapisr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pilapisr.json"
+        ]
+      }
+    },
+    {
+      "name": "Eplr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eplr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/eplr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pelr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pelr.json"
+        ]
+      }
+    },
+    {
+      "name": "Hlr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hlr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/hlr.json"
+        ]
+      }
+    },
+    {
+      "name": "Har",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "har",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/har.json"
+        ]
+      }
+    },
+    {
+      "name": "Enr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/enr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pnr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pnr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pnr.json"
+        ]
+      }
+    },
+    {
+      "name": "Hnr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hnr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/hnr.json"
+        ]
+      }
+    },
+    {
+      "name": "Honr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/honr.json"
+        ]
+      }
+    },
+    {
+      "name": "Penr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/penr.json"
+        ]
+      }
+    },
+    {
+      "name": "Ecr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ecr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/ecr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pcr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pcr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pcr.json"
+        ]
+      }
+    },
+    {
+      "name": "Hcr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hcr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/hcr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pecr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pecr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pecr.json"
+        ]
+      }
+    },
+    {
+      "name": "Casquetitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "casquetitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/casquetitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Plastrontitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastrontitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/plastrontitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pantalontitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pantalontitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pantalontitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Bottetitanr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bottetitanr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/bottetitanr.json"
+        ]
+      }
+    },
+    {
+      "name": "Ebr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ebr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/ebr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pbr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pbr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pbr.json"
+        ]
+      }
+    },
+    {
+      "name": "Pebr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pebr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/pebr.json"
+        ]
+      }
+    },
+    {
+      "name": "Etr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "etr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/etr.json"
+        ]
+      }
+    },
+    {
+      "name": "Ptr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ptr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/ptr.json"
+        ]
+      }
+    },
+    {
+      "name": "Htr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "htr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/htr.json"
+        ]
+      }
+    },
+    {
+      "name": "Petr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "petr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/petr.json"
+        ]
+      }
+    },
+    {
+      "name": "Montreargentr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "montreargentr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/recipes/montreargentr.json"
+        ]
+      }
+    },
+    {
+      "name": "Montreargentprog",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "montreargentprog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/montreargentprog.json"
+        ]
+      }
+    },
+    {
+      "name": "Plastrontitaniumprog",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastrontitaniumprog",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/plastrontitaniumprog.json"
+        ]
+      }
+    },
+    {
+      "name": "Corps_titan_prog_don",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corps_titan_prog_don",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/procedures/Corps_titan_prog_donProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mineuragueri",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineuragueri",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ore_pack/advancements/mineuragueri.json"
+        ]
+      }
+    },
+    {
+      "name": "Defi_final_don",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "defi_final_don",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/procedures/Defi_final_donProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mtv",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mtv",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Titaniumarmortick",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titaniumarmortick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/orepack/procedures/TitaniumarmortickProcedure.java"
+        ],
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Titanium_trouves",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Titanium"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Bronze",
+      "~CUSTOM:Titanium",
+      "~CUSTOM:Nickel",
+      "~CUSTOM:Blocmanganese",
+      "~CUSTOM:Manganese"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:Dalletitanium",
+      "~CUSTOM:Dalleargent",
+      "~CUSTOM:Dallebronze",
+      "~CUSTOM:Dallenickel",
+      "~CUSTOM:Dallemanganese"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:Bronze",
+      "~CUSTOM:Nickel",
+      "~CUSTOM:Blocmanganese",
+      "~CUSTOM:Manganese"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Piochetitanium",
+      "~CUSTOM:Piochebronze",
+      "~CUSTOM:Piochecuivre",
+      "~CUSTOM:Piochenickel",
+      "~CUSTOM:Piochelapis"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Hachetitanium",
+      "~CUSTOM:Hachecuivre",
+      "~CUSTOM:Hachenickel",
+      "~CUSTOM:Hachelapis"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:Escaliertitanium",
+      "~CUSTOM:Escalierargent",
+      "~CUSTOM:Escalierbronze",
+      "~CUSTOM:Escaliernickel",
+      "~CUSTOM:Escaliermanganese"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Epeetitanium",
+      "~CUSTOM:Epeebronze",
+      "~CUSTOM:Epeecuivre",
+      "~CUSTOM:Epeenickel",
+      "~CUSTOM:Epeelapis"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:Houxnickel",
+      "~CUSTOM:Houxlapis"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:Pelletitanium",
+      "~CUSTOM:Pellebronze",
+      "~CUSTOM:Pellecuivre",
+      "~CUSTOM:Pellenickel",
+      "~CUSTOM:Pellelapis"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "advancements.montreargentprog.descr": "Craft a clock",
+      "advancements.reparationball.descr": "Craft a reparation ball",
+      "block.ore_pack.dalletitanium": "Titanium slab",
+      "item.ore_pack.pellenickel": "Nickel spade",
+      "advancements.plastrontitaniumprog.title": "Titan body",
+      "item.ore_pack.epeenickel": "Nickel sword",
+      "block.ore_pack.titanium": "Titanium",
+      "advancements.reparationball.title": "Réparator",
+      "item.ore_pack.pepitedemanganese": "Raw manganese",
+      "item.ore_pack.pepite_argent": "Silver lingot",
+      "item.ore_pack.piochenickel": "Nickel pickaxe",
+      "advancements.combattantorange.descr": "Fight with a bronze sword",
+      "item.ore_pack.houxlapis": "Lapis-lazuli hoe",
+      "item.ore_pack.titaniumbrut": "Raw titanium",
+      "item.ore_pack.pellecuivre": "Copper spade",
+      "item.ore_pack.argentbrut": "Raw silver",
+      "item.ore_pack.hachecuivre": "Copper axe",
+      "item.ore_pack.raw_titanium": "Raw titanium",
+      "block.ore_pack.escaliertitanium": "Titanium stair",
+      "item.ore_pack.piochelapis": "Lapis-lazuli pickaxe",
+      "block.ore_pack.blocnickel": "Nickel block",
+      "block.ore_pack.blocargent": "Silver block",
+      "item.ore_pack.pellelapis": "Lapis-lazuli spade",
+      "block.ore_pack.argent": "Silver",
+      "item.ore_pack.hachetitanium": "Titanium axe",
+      "item.ore_pack.pelletitanium": "Titanium spade",
+      "item.ore_pack.armuretitanium_chestplate": "Titanium chestplate",
+      "item.ore_pack.pellebronze": "Bronze spade",
+      "item.ore_pack.piochecuivre": "Copper pickaxe",
+      "item.ore_pack.armuretitanium_leggings": "Titanium leggins",
+      "block.ore_pack.bronze": "Bronze",
+      "advancements.plastrontitaniumprog.descr": "Equip a titanium armor",
+      "item.ore_pack.boulereparation": "Reparation ball",
+      "item.ore_pack.pepitenickel": "Nickel nugget",
+      "advancements.manganeseblock.title": "Fabric master",
+      "block.ore_pack.manganese": "Raw manganese",
+      "block.ore_pack.dallemanganese": "Manganese slab",
+      "item.ore_pack.hachenickel": "Nickel axe",
+      "item.ore_pack.epeebronze": "Bronze sword",
+      "advancements.manganeseblock.descr": "Craft a manganese block",
+      "item.ore_pack.piochetitanium": "Titanium pickaxe",
+      "item.ore_pack.raw_manganese": "Raw manganese",
+      "item.ore_pack.houxnickel": "Nickel hoe",
+      "item.ore_pack.manganesenbrut": "Manganese lingot",
+      "item.ore_pack.raw_silver": "Raw silver",
+      "item.ore_pack.epeelapis": "Lapis-lazuli sword",
+      "advancements.mineuragueri.title": "Experimented miner",
+      "item.ore_pack.bronze_nugget": "Bronze nugget",
+      "block.ore_pack.dallenickel": "Nickel slab",
+      "block.ore_pack.nickel": "Nickel",
+      "item.ore_pack.epeecuivre": "Copper sword",
+      "advancements.mineuragueri.descr": "Find 20 titanium",
+      "advancements.sliverclock.title": "Bijoutier",
+      "block.ore_pack.escaliernickel": "Nickel stair",
+      "advancements.combattantorange.title": "Orange fighter",
+      "block.ore_pack.escalierbronze": "Bronze stair",
+      "block.ore_pack.dallebronze": "Bronze slab",
+      "block.ore_pack.blocmanganese": "Manganese block",
+      "block.ore_pack.escalierargent": "Silver stair",
+      "item.ore_pack.hachelapis": "Lapis-lazuli axe",
+      "item.ore_pack.piochebronze": "Bronze pickaxe",
+      "item.ore_pack.nickelbrut": "Raw nickel",
+      "item.ore_pack.armuretitanium_helmet": "Titanium helmet",
+      "block.ore_pack.dalleargent": "Silver slab",
+      "item.ore_pack.pepitetitanium": "Titanium lingot",
+      "item.ore_pack.epeetitanium": "Titanium sword",
+      "item.ore_pack.bronzebrut": "Raw bronze",
+      "item.ore_pack.raw_nickel": "Raw nickel",
+      "block.ore_pack.bloctitanium": "Titanium block",
+      "block.ore_pack.bronze_block": "Bronze block",
+      "item.ore_pack.armuretitanium_boots": "Titanium boots",
+      "block.ore_pack.escaliermanganese": "Manganese stair"
+    },
+    "fr_fr": {
+      "advancements.montreargentprog.descr": "Faire une montre",
+      "item.ore_pack.pepitebronze": "Pépite de bronze",
+      "block.ore_pack.dalletitanium": "Dalle de titanium",
+      "item.ore_pack.pellenickel": "Pelle de nickel",
+      "advancements.plastrontitaniumprog.title": "Corps de titan",
+      "item.ore_pack.epeenickel": "Epée de nickel",
+      "block.ore_pack.titanium": "Titanium",
+      "advancements.montreargentprog.title": "Bijoutier",
+      "item.ore_pack.pepitedemanganese": "Manganèse brut",
+      "item.ore_pack.pepite_argent": "Pépite d\u0027argent",
+      "item.ore_pack.piochenickel": "Pioche de nickel",
+      "advancements.combattantorange.descr": "Attaquer avec une épée en bronze",
+      "item.ore_pack.houxlapis": "Houx de lapis-lazuli",
+      "item.ore_pack.titaniumbrut": "Titanium brut",
+      "item.ore_pack.pellecuivre": "Pelle de cuivre",
+      "item.ore_pack.argentbrut": "Argent brut",
+      "item.ore_pack.hachecuivre": "Hache de cuivre",
+      "advancements.boulerepprog.title": "Réparateur",
+      "block.ore_pack.escaliertitanium": "Escalier de titanium",
+      "item.ore_pack.piochelapis": "Pioche de lapis-lazuli",
+      "block.ore_pack.blocnickel": "Bloc de nickel",
+      "block.ore_pack.blocargent": "Bloc d\u0027argent",
+      "item.ore_pack.pellelapis": "Pelle de lapis-lazuli",
+      "block.ore_pack.argent": "Argent",
+      "block.ore_pack.blocbronze": "Bloc de bronze",
+      "item.ore_pack.hachetitanium": "Hache de titanium",
+      "item.ore_pack.pelletitanium": "Pelle de titanium",
+      "item.ore_pack.armuretitanium_chestplate": "Plastron de titanium",
+      "item.ore_pack.pellebronze": "Pelle de bronze",
+      "item.ore_pack.piochecuivre": "Pioche de cuivre",
+      "item.ore_pack.armuretitanium_leggings": "Pantalon de titanium",
+      "block.ore_pack.bronze": "Bronze",
+      "advancements.plastrontitaniumprog.descr": "S\u0027équiper d\u0027une armure en titanium",
+      "item.ore_pack.boulereparation": "Boule de reparation",
+      "item.ore_pack.pepitenickel": "Pepite de nickel",
+      "block.ore_pack.manganese": "Manganèse brut",
+      "block.ore_pack.dallemanganese": "Dalle de manganèse",
+      "item.ore_pack.hachenickel": "Hache de nickel",
+      "item.ore_pack.epeebronze": "Epée de bronze",
+      "item.ore_pack.piochetitanium": "Pioche de titanium",
+      "item.ore_pack.manganesenbrut": "Pépite de manganèse",
+      "item.ore_pack.houxnickel": "Houx de nickel",
+      "advancements.boulerepprog.descr": "fabriquer une boule de réparation",
+      "item.ore_pack.epeelapis": "Epée de lapis-lazuli",
+      "advancements.mineuragueri.title": "Mineur agueri",
+      "block.ore_pack.dallenickel": "Dalle de nickel",
+      "advancements.blocmanganeseprog.title": "Maitre de fabrique",
+      "block.ore_pack.nickel": "Nickel",
+      "advancements.blocmanganeseprog.descr": "Construire un bloc de manganèse",
+      "item.ore_pack.epeecuivre": "Epée de cuivre",
+      "advancements.mineuragueri.descr": "Trouver 20 titanium",
+      "block.ore_pack.escaliernickel": "Escalier de nickel",
+      "advancements.combattantorange.title": "Combattant orange",
+      "block.ore_pack.escalierbronze": "Escalier de bronze",
+      "block.ore_pack.dallebronze": "Dalle de bronze",
+      "block.ore_pack.blocmanganese": "Bloc de manganèse",
+      "block.ore_pack.escalierargent": "Escalier d\u0027argent",
+      "item.ore_pack.hachelapis": "Hache de lapis-lazuli",
+      "item.ore_pack.piochebronze": "Pioche de bronze",
+      "item.ore_pack.nickelbrut": "Nickel brut",
+      "item.ore_pack.armuretitanium_helmet": "Casque de titanium",
+      "block.ore_pack.dalleargent": "Dalle d\u0027argent",
+      "item.ore_pack.pepitetitanium": "Pepite de titanium",
+      "item.ore_pack.epeetitanium": "Epée de titanium",
+      "item.ore_pack.bronzebrut": "Bronze brut",
+      "block.ore_pack.bloctitanium": "Bloc de titanium",
+      "item.ore_pack.armuretitanium_boots": "Bottes de titanium",
+      "block.ore_pack.escaliermanganese": "Escalier de manganèse"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ore_pack",
+    "modName": "Ore pack",
+    "version": "1.1.0",
+    "description": "Five new ores",
+    "author": "CCC Studio",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.orepack"
+  },
+  "mcreatorVersion": 202400228714
+}

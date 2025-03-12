@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ore_pack:bronze",
+    "ore_pack:nickel",
+    "ore_pack:blocmanganese",
+    "ore_pack:manganese"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "echantment_fantasy:disturbance",
+    "echantment_fantasy:speed",
+    "echantment_fantasy:stunning_hit",
+    "echantment_fantasy:invisibility",
+    "echantment_fantasy:life_thief"
+  ]
+}
