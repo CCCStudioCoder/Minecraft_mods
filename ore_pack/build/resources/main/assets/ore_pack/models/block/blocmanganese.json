@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "ore_pack:block/manganese_bloc",
-    "particle": "ore_pack:block/manganese_bloc"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "ore_pack:block/nickel",
-    "particle": "ore_pack:block/nickel"
-  },
-  "render_type": "solid"
-}

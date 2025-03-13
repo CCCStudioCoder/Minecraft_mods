@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "ore_pack:block/argent",
-    "particle": "ore_pack:block/argent"
-  },
-  "render_type": "solid"
-}
