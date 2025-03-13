@@ -1,0 +1,19 @@
+/time set noon
+/give Dev minecraft:knowledge_book
+/recipe give Dev *
+/give Dev renewed_this:creeperlifeessence
+/give Dev minecraft:barrier
+/give Dev minecraft:light
+/give Dev minecraft:command_block
+/setblock -11 -60 0 minecraft:wheat
+/setblock -4 -63 4 wheat
+/setblock -2 -61 2 wheat
+/setblock -2 -60 0 minecraft:beetroots
+/give Dev renewed_this:bedrockingot
+/gamerule doDaylightCycle false
+/time set night
+/time set 15000
+/give Dev minecraft:knowledge_book
+/kill @e[type=minecraft:warden]
+/recipe give Dev *
+/summon renewed_this:angel_breath -3.50 -59.94 -17.57

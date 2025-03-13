@@ -1,0 +1,42 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Special",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "spawner_breaker",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Spawner breaker",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "efficiency": 5.0,
+    "attackSpeed": 0.8,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 84,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "IRON",
+    "blocksAffected": [
+      {
+        "value": "Blocks.MOB_SPAWNER"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "SpawnerbreakerBlockDestroyedWithTool"
+    }
+  }
+}

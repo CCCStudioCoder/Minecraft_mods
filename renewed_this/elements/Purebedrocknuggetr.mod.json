@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 6.5,
+    "cookingTime": 250,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Purebedrockproduct"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Purebedrocknugget"
+    },
+    "name": "purebedrocknugget",
+    "namespace": "mod"
+  }
+}

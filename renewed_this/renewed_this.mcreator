@@ -1,0 +1,1049 @@
+{
+  "mod_elements": [
+    {
+      "name": "Spawnerbreaker",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnerbreaker",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/SpawnerbreakerItem.java",
+          "src/main/resources/assets/renewed_this/models/item/spawnerbreaker.json"
+        ]
+      }
+    },
+    {
+      "name": "SpawnerbreakerBlockDestroyedWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnerbreaker_block_destroyed_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/SpawnerbreakerBlockDestroyedWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Zombielifeessence",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zombielifeessence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/zombielifeessence.json",
+          "src/main/java/net/cccstudio/renewedthis/item/ZombielifeessenceItem.java"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "LifeessencereclaimerLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lifeessencereclaimer_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/LifeessencereclaimerLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lifeessencereclaimer",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lifeessencereclaimer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/lifeessencereclaimer.json",
+          "src/main/java/net/cccstudio/renewedthis/item/LifeessencereclaimerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Spawnerbreakerr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnerbreakerr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/spawnerbreaker.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "LfEnDcrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lf_en_dcrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/life_essence_disclaimer.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Skeletonlifeessence",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeletonlifeessence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/skeletonlifeessence.json",
+          "src/main/java/net/cccstudio/renewedthis/item/SkeletonlifeessenceItem.java"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Endermanlifeessence",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endermanlifeessence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/EndermanlifeessenceItem.java",
+          "src/main/resources/assets/renewed_this/models/item/endermanlifeessence.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Creeperlifeessence",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeperlifeessence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/CreeperlifeessenceItem.java",
+          "src/main/resources/assets/renewed_this/models/item/creeperlifeessence.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Zombieegg",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zombieegg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/zombieegg.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Skeletonegg",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeletonegg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/skeletonegg.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Spideregg",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spideregg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/spideregg.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Endermanegg",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endermanegg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/endermenegg.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Creeperegg",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeperegg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/creeperegg.json"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Spiderlifeessence",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spiderlifeessence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/spiderlifeessence.json",
+          "src/main/java/net/cccstudio/renewedthis/item/SpiderlifeessenceItem.java"
+        ]
+      },
+      "path": "~/Life_essences"
+    },
+    {
+      "name": "Infinitypickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitypickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/infinitypickaxe.json",
+          "src/main/java/net/cccstudio/renewedthis/item/InfinitypickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Infinitypickaxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitypickaxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/infinitypickaxe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Purebedrockproduct",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purebedrockproduct",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/purebedrockproduct.json",
+          "src/main/java/net/cccstudio/renewedthis/item/PurebedrockproductItem.java"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "InfinitypickaxeRightclickedOnBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitypickaxe_rightclicked_on_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/InfinitypickaxeRightclickedOnBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Purebedrocknugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purebedrocknugget",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/purebedrocknugget.json",
+          "src/main/java/net/cccstudio/renewedthis/item/PurebedrocknuggetItem.java"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Infinitypickaxeinversed",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitypickaxeinversed",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/infinitypickaxeinversed.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Purebedrocknuggetr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purebedrocknuggetr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/purebedrocknugget.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Purebedrocknuggethigh",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purebedrocknuggethigh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/purebedrocknuggethigh.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/bedrockingot.json",
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockingotItem.java"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockingotr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockingotr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockingot.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrocksword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrocksword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockswordItem.java",
+          "src/main/resources/assets/renewed_this/models/item/bedrocksword.json"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "BedrockpickaxeBlockDestroyedWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockpickaxe_block_destroyed_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/BedrockpickaxeBlockDestroyedWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockpickaxeItem.java",
+          "src/main/resources/assets/renewed_this/models/item/bedrockpickaxe.json"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "BedrockhoeBlockDestroyedWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockhoe_block_destroyed_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/BedrockhoeBlockDestroyedWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockhoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockhoeItem.java",
+          "src/main/resources/assets/renewed_this/models/item/bedrockhoe.json"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "BedrockaxeBlockDestroyedWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockaxe_block_destroyed_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/BedrockaxeBlockDestroyedWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/bedrockaxe.json",
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockaxeItem.java"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "BedrockshovelBlockDestroyedWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockshovel_block_destroyed_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/BedrockshovelBlockDestroyedWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockshovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockshovelItem.java",
+          "src/main/resources/assets/renewed_this/models/item/bedrockshovel.json"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockarmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockarmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/bedrockarmor_boots.json",
+          "src/main/resources/assets/renewed_this/models/item/bedrockarmor_helmet.json",
+          "src/main/resources/assets/renewed_this/models/item/bedrockarmor_chestplate.json",
+          "src/main/java/net/cccstudio/renewedthis/item/BedrockarmorItem.java",
+          "src/main/resources/assets/renewed_this/models/item/bedrockarmor_leggings.json"
+        ]
+      },
+      "path": "~/Bedrock_products"
+    },
+    {
+      "name": "Bedrockswordr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockswordr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrocksword.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockpickaxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockpickaxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockpickaxer.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockaxer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockaxer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockaxer.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockaxeinversed",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockaxeinversed",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockaxeinversed.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockhoer",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockhoer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockhoer.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrcokhoeinversed",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrcokhoeinversed",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrcokhoeinversed.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockshovelr",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockshovelr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockshovelr.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockhelmet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockhelmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockhelmet.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockhelmethigh",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockhelmethigh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockhelmethigh.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockboots",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockboots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockboots.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockbootslow",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockbootslow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockbootslow.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockleggings",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockleggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockleggings.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "Bedrockchestplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrockchestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/bedrockchestplate.json"
+        ]
+      },
+      "path": "~/recipes/bedrock_products"
+    },
+    {
+      "name": "InfinitychestGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitychest_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/client/gui/InfinitychestGUIScreen.java",
+          "src/main/java/net/cccstudio/renewedthis/world/inventory/InfinitychestGUIMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "Inifnitychest",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinitychest",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/block/InifnitychestBlock.java",
+          "src/main/java/net/cccstudio/renewedthis/block/entity/InifnitychestBlockEntity.java",
+          "src/main/resources/assets/renewed_this/models/block/infinitychest.json",
+          "src/main/resources/assets/renewed_this/models/item/infinitychest.json",
+          "src/main/resources/assets/renewed_this/blockstates/infinitychest.json",
+          "src/main/resources/data/renewed_this/loot_table/blocks/infinitychest.json"
+        ]
+      }
+    },
+    {
+      "name": "InfinityChestHandler",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_chest_handler",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/procedures/InfinityChestHandlerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Angel",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "angel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/neoforge/biome_modifier/angel_biome_modifier.json",
+          "src/main/java/net/cccstudio/renewedthis/entity/AngelEntity.java",
+          "src/main/java/net/cccstudio/renewedthis/client/renderer/AngelRenderer.java",
+          "src/main/resources/assets/renewed_this/models/item/angel_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "AngelBreath",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "angel_breath",
+      "metadata": {
+        "files": [
+          "src/main/java/net/cccstudio/renewedthis/entity/AngelBreathEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Angelbreathing",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "angelbreathing",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/renewed_this/models/item/angelbreathing.json",
+          "src/main/java/net/cccstudio/renewedthis/item/AngelbreathingItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Collector",
+      "type": "villagerprofession",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collector",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CollectorTrades",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "collector_trades",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "InfinityChest",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_chest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/renewed_this/recipe/infinity_chest.json"
+        ]
+      },
+      "path": "~/recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:chest_armor": [
+      "~CUSTOM:Bedrockarmor.body"
+    ],
+    "ENTITIES:minecraft:undead": [
+      "~CUSTOM:Angel"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Bedrockpickaxe",
+      "~CUSTOM:Infinitypickaxe",
+      "~CUSTOM:Spawnerbreaker"
+    ],
+    "ITEMS:mod:can_use_with_infinity_chest": [
+      "CUSTOM:Bedrockingot",
+      "Items.IRON_INGOT",
+      "Items.GOLD_INGOT",
+      "Items.COPPER_INGOT",
+      "Items.DIAMOND",
+      "Items.NETHERITE_INGOT",
+      "Items.EMERALD",
+      "Items.COAL#0"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:Bedrockhoe"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:Inifnitychest"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Bedrockaxe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Bedrocksword",
+      "~CUSTOM:Lifeessencereclaimer"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:Bedrockshovel"
+    ],
+    "ITEMS:minecraft:head_armor": [
+      "~CUSTOM:Bedrockarmor.helmet"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~CUSTOM:Bedrockarmor.boots"
+    ],
+    "ITEMS:minecraft:leg_armor": [
+      "~CUSTOM:Bedrockarmor.legs"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.renewed_this.bedrockaxe": "Bedrock axe",
+      "item.renewed_this.infinitypickaxe": "Infinity pickaxe",
+      "item.renewed_this.lifeessencereclaimer": "Life thief",
+      "item.renewed_this.bedrocksword": "Bedrock sword",
+      "entity.minecraft.villager.renewed_this.collector": "Collector",
+      "gui.renewed_this.infinitychest_gui.label_inifinity_chest": "Inifinity chest",
+      "item.renewed_this.angelbreathing": "Angel breath",
+      "item.renewed_this.spawnerbreaker": "Spawner breaker",
+      "item.renewed_this.bedrockarmor_leggings": "Bedrock leggings",
+      "item.renewed_this.zombielifeessence": "Zombie life essence",
+      "item.renewed_this.skeletonlifeessence": "Skeleton life essence",
+      "item.renewed_this.creeperlifeessence": "Creeper life essence",
+      "item.renewed_this.purebedrocknugget": "Pure bedrock nugget",
+      "item.renewed_this.life_thief": "Life thief",
+      "item.renewed_this.spiderlifeessence": "Spider life essence",
+      "item.renewed_this.endermanlifeessence": "Enderman life essence",
+      "item.renewed_this.bedrockarmor_helmet": "Bedrock helmet",
+      "item.renewed_this.bedrockarmor_chestplate": "Bedrock chestplate",
+      "item.renewed_this.angel_spawn_egg": "Angel Spawn Egg",
+      "entity.renewed_this.angel": "Angel",
+      "item.renewed_this.bedrockingot": "Bedrock ingot",
+      "item.renewed_this.purebedrockproduct": "Pure bedrock product",
+      "item.renewed_this.bedrockhoe": "Bedrock hoe",
+      "item.renewed_this.bedrockshovel": "Bedrock shovel",
+      "block.renewed_this.infinitychest": "Infinity chest",
+      "item.renewed_this.bedrockpickaxe": "Bedrock pickaxe",
+      "item.renewed_this.bedrockarmor_boots": "Bedrock boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Life_essences",
+        "children": []
+      },
+      {
+        "name": "recipes",
+        "children": [
+          {
+            "name": "bedrock_products",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bedrock_products",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "renewed_this",
+    "modName": "Renewed this",
+    "version": "0.3",
+    "description": "Evrythings must be renewable !",
+    "author": "CCC Studio",
+    "websiteURL": "https://cccstudiocoder.github.io/renewed_this",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "modPicture": "renewed_this_final",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator (thanks for Pylo)",
+    "modElementsPackage": "net.cccstudio.renewedthis"
+  },
+  "mcreatorVersion": 202400452410
+}

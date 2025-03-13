@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 6.5,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "renewed_this:purebedrockproduct"
+  },
+  "result": {
+    "id": "renewed_this:purebedrocknugget"
+  }
+}

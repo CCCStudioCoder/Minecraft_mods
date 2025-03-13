@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "renewed_this:block/infinity_chest_top_bottom",
+    "up": "renewed_this:block/infinity_chest_top_bottom",
+    "north": "renewed_this:block/infinity_chest_front",
+    "east": "renewed_this:block/infinity_chest_all",
+    "south": "renewed_this:block/infinity_chest_all",
+    "west": "renewed_this:block/infinity_chest_all",
+    "particle": "renewed_this:block/infinity_chest_top_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Collector",
+    "pointOfInterest": {
+      "value": "CUSTOM:Inifnitychest"
+    },
+    "actionSound": {
+      "value": "entity.villager.ambient"
+    },
+    "hat": "None",
+    "professionTextureFile": "villager.png",
+    "zombifiedProfessionTextureFile": "zombie_villager.png"
+  }
+}

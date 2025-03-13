@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spawn_egg",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "renewed_this:spiderlifeessence"
+    }
+  },
+  "result": {
+    "id": "minecraft:spider_spawn_egg",
+    "count": 1
+  }
+}

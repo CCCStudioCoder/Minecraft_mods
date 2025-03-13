@@ -1,0 +1,21 @@
+{
+  "_fv": 73,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Angelbreathing"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.player.breath"
+    },
+    "igniteFire": true,
+    "power": 1.5,
+    "damage": 5.0,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "angel_breath.png",
+    "modelWidth": 1.0,
+    "modelHeight": 1.0
+  }
+}

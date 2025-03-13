@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bedrockingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bedrockarmor.legs"
+    },
+    "name": "bedrockleggings",
+    "namespace": "mod"
+  }
+}

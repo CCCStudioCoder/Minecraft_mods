@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="renewed_this"
+version="0.3"
+displayName="Renewed this"
+displayURL="https://cccstudiocoder.github.io/renewed_this"
+logoFile="logo.png"
+credits="Created using mod maker MCreator (thanks for Pylo)"
+authors="CCC Studio"
+description="Evrythings must be renewable !"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.renewed_this]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.renewed_this]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

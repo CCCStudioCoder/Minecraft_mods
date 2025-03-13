@@ -1,0 +1,55 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "infinity_pickaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Infinity pickaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 17,
+    "damageVsEntity": 3.5,
+    "usageCount": 136,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [
+      {
+        "value": "Blocks.BEDROCK"
+      },
+      {
+        "value": "Blocks.END_PORTAL_FRAME"
+      },
+      {
+        "value": "Blocks.BUDDING_AMETHYST"
+      },
+      {
+        "value": "Blocks.COMMAND_BLOCK"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "InfinitypickaxeRightclickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "renewed_this:bedrockingot",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot",
+    "minecraft:emerald",
+    "minecraft:coal"
+  ]
+}

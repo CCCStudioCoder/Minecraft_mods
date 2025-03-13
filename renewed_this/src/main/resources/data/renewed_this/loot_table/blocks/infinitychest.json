@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "renewed_this:blocks/infinitychest",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "renewed_this:infinitychest"
+        }
+      ]
+    }
+  ]
+}
